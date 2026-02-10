@@ -12,7 +12,7 @@ A modern, production-ready URL shortener built with Flask, featuring user authen
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 > **Note:**
-> Note: The UI design of this project is based on a pre-made HTML/CSS/JS template.
+> The UI design of this project is based on a pre-made HTML/CSS/JS template.
 I fully implemented and integrated the Flask backend myself and adapted the template to the project structure.
 All backend functionality — including URL shortening logic, authentication, rate limiting, Redis integration, Celery background tasks, analytics, expiration handling, and API design — was developed by me.
 
