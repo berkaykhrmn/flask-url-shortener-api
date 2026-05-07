@@ -11,12 +11,6 @@ A modern, production-ready URL shortener built with Flask, featuring user authen
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-> **Note:**
-> The UI design of this project is based on a pre-made HTML/CSS/JS template.
-I fully implemented and integrated the application backend using Flask and adapted the template to fit the project structure.
-All backend functionality — including URL shortening logic, authentication, rate limiting, Redis integration, Celery background tasks, analytics, expiration handling, and API design — was developed by me.
-
-
 ## 🚀 Features
 
 - **URL Shortening**: Generate short, memorable links with automatic or custom codes
